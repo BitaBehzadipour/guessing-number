@@ -83,15 +83,15 @@ git clone https://github.com/YourUsername/guess-my-number.git
 
 ### Home Screen
 
-![Home](images/home.png)
+![Home](images/1.png)
 
 ### Wrong Guess
 
-![Wrong Guess](images/wrong-guess.png)
+![Wrong Guess](images/lost.png)
 
 ### Winner Screen
 
-![Winner](images/winner.png)
+![Winner](images/correct.png)
 
 ---
 
